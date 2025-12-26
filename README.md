@@ -23,3 +23,7 @@
 Ну и наконец в пятой финальной версии.
 
 [The asteroid field generator on Babylon.js (Version 5 - FINAL version) | Babylon.js Playground](https://playground.babylonjs.com/#EV1Y3H)
+
+Шестая версия продолжим идею микроастероидов и добавим кнопку скачивания.
+
+[The asteroid field generator on Babylon.js(Version 6 - Microasteroids endless procedural XYZ version+teleport+download) | Babylon.js Playground](https://playground.babylonjs.com/#NNP514)
