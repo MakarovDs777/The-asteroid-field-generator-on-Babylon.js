@@ -20,3 +20,6 @@
 
 [The asteroid field generator on Babylon.js (Version 4 - Microasteroids endless procedural XYZ version + teleport table) | Babylon.js Playground](https://playground.babylonjs.com/#WG18QM)
 
+Ну и наконец в пятой финальной версии.
+
+[The asteroid field generator on Babylon.js (Version 5 - FINAL version) | Babylon.js Playground](https://playground.babylonjs.com/#EV1Y3H)
