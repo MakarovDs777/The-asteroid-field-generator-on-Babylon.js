@@ -27,3 +27,7 @@
 Шестая версия продолжим идею микроастероидов и добавим кнопку скачивания.
 
 [The asteroid field generator on Babylon.js(Version 6 - Microasteroids endless procedural XYZ version+teleport+download) | Babylon.js Playground](https://playground.babylonjs.com/#NNP514)
+
+Седьмая версия это пятая, и плюс к этом у табло телепорта.
+
+[The asteroid field generator on Babylon.js (Version 7 - FINAL version + Teleport GUI) | Babylon.js Playground](https://playground.babylonjs.com/#BK0AMA)
