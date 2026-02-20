@@ -30,4 +30,4 @@
 
 Седьмая версия это пятая, и плюс к этом у табло телепорта.
 
-[The asteroid field generator on Babylon.js (Version 7 - FINAL version + Teleport GUI) | Babylon.js Playground](https://playground.babylonjs.com/#BK0AMA)
+[The asteroid field generator on Babylon.js (Version 7 - FINAL version + Teleport GUI) | Babylon.js Playground](https://playground.babylonjs.com/#BK0AMA#1)
