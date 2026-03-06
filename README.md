@@ -18,7 +18,7 @@
 
 В четвертой я сделал бескончено-процедурно генерируемые астероиды изурфейсов и добавил поля телепорта для телепортации.
 
-[The asteroid field generator on Babylon.js (Version 4 - Microasteroids endless procedural XYZ version + teleport table) | Babylon.js Playground](https://playground.babylonjs.com/#WG18QM)
+[The asteroid field generator on Babylon.js (Version 4 - Microasteroids endless procedural XYZ version + teleport table) | Babylon.js Playground](https://playground.babylonjs.com/#WG18QM#1)
 
 Ну и наконец в пятой финальной версии.
 
@@ -26,7 +26,7 @@
 
 Шестая версия продолжим идею микроастероидов и добавим кнопку скачивания.
 
-[The asteroid field generator on Babylon.js(Version 6 - Microasteroids endless procedural XYZ version+teleport+download) | Babylon.js Playground](https://playground.babylonjs.com/#NNP514)
+[The asteroid field generator on Babylon.js(Version 6 - Microasteroids endless procedural XYZ version+teleport+download) | Babylon.js Playground](https://playground.babylonjs.com/#NNP514#1)
 
 Седьмая версия это пятая, и плюс к этом у табло телепорта.
 
