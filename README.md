@@ -2,7 +2,7 @@
 
 В нулевой версии я раскидал случайно изурфейсы в чанке.
 
-[The asteroid field generator on Babylon.js (Version 0 - Asteroid field in a chunk with animation) | Babylon.js Playground](https://playground.babylonjs.com/#Z4BR2X)
+[The asteroid field generator on Babylon.js (Version 0 - Asteroid field in a chunk with animation) | Babylon.js Playground](https://playground.babylonjs.com/#Z4BR2X#1)
 
 Во первой версии я сделал бесконечную процедурную генерацию по XYZ шаров разного размера дал им вращения в случаную сторону.
 
