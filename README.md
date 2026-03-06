@@ -14,7 +14,7 @@
 
 В третей я сделал бесконечно-процедурно генерируемый по XYZ микроастероиды ввиде изурфейсов в случайных местах.
 
-[The asteroid field generator on Babylon.js (Version 3 - Microasteroids XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#ZX56TJ)
+[The asteroid field generator on Babylon.js (Version 3 - Microasteroids XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#ZX56TJ#1)
 
 В четвертой я сделал бескончено-процедурно генерируемые астероиды изурфейсов и добавил поля телепорта для телепортации.
 
